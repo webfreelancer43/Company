@@ -154,6 +154,22 @@
     .label-email {
         margin-left: 0;
     }
+
+    .contact__form-inner label {
+        padding-top: 15px;
+    }
+
+    .contacts__descriptions {
+        margin: 90px auto 75px;
+    }
+
+    .contact__form-input-top, .contact__form-input-bottom {
+        margin-top: 5px;
+    }
+
+    .label-message {
+        margin-top: 10px;
+    }
 }
 
 @media (max-width: 500px) {
@@ -205,7 +221,6 @@
         font-size: 40px;
     }
 }
-
 
 @media (min-width: 851px) {
     .header__menu ul {

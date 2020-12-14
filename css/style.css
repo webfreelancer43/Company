@@ -163,8 +163,7 @@ a {
     width: 14px;
     height: 15px;
     left: -25px;
-    top: 50%;
-    transform: translateY(-50%);
+    top: 5px;
 }
 
 .team {
